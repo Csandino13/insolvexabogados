@@ -1,33 +1,66 @@
-# Insolvex Abogados
-
-Bienvenidos al repositorio de **Insolvex Abogados**, un sitio web creado para ayudar a las personas que necesitan asesoramiento legal sobre la **Ley de Segunda Oportunidad** y **Concursos de Acreedores**. Este repositorio contiene el código fuente del sitio web de nuestro despacho, que ofrece servicios jurídicos especializados.
+# Insolvex Abogados - Ley de Segunda Oportunidad
 
 ## Descripción
 
-Este sitio web está diseñado para ser informativo y accesible, con un enfoque en la **Ley de Segunda Oportunidad**. Ofrecemos un diseño profesional y moderno para que nuestros usuarios puedan obtener la información y la ayuda que necesitan de manera rápida y eficiente.
+Insolvex Abogados es un despacho especializado en la Ley de Segunda Oportunidad, brindando asesoramiento legal a personas físicas y autónomos que se encuentran en situaciones de sobreendeudamiento. Ayudamos a nuestros clientes a encontrar una salida a sus problemas financieros, a través de procedimientos legales como la exoneración de deudas y la reestructuración de pagos.
 
-### Características:
-- **Diseño responsive**: El sitio es completamente funcional en dispositivos móviles, tabletas y computadoras de escritorio.
-- **Secciones claras**: Navega fácilmente por las secciones de servicios, contacto y más.
-- **Llamadas a la acción**: Botones prominentes para solicitar una consulta o más información.
-- **Fácil de navegar**: Menú de navegación intuitivo que permite acceder rápidamente a cada sección.
+Este repositorio contiene el código fuente del sitio web de Insolvex Abogados, diseñado para proporcionar información sobre nuestros servicios y facilitar el contacto con nuestros abogados.
 
-## Tecnologías utilizadas
+## Funcionalidades
 
-Este proyecto está desarrollado utilizando las siguientes tecnologías:
-
-- **HTML5**: Para la estructura del contenido.
-- **CSS3**: Para el diseño y estilo visual.
-- **JavaScript**: Para la interactividad del sitio.
-- **GitHub Pages**: Para alojar el sitio web de manera gratuita y eficiente.
+- **Asesoramiento en la Ley de Segunda Oportunidad**: Explicamos cómo funciona la ley, los requisitos y el proceso.
+- **Información sobre nuestros servicios**: Detalles sobre la eliminación de deudas, exoneración de responsabilidades y planificación financiera.
+- **Formulario de contacto**: Los usuarios pueden ponerse en contacto con nosotros directamente desde el sitio web.
 
 ## Instalación
 
-Para comenzar a utilizar este repositorio o modificar el código, sigue estos pasos:
+Este sitio web está diseñado para ser alojado a través de [GitHub Pages](https://pages.github.com/). Para verlo en vivo, puedes acceder al sitio web en la siguiente URL:
 
-### 1. Clonar el repositorio:
+[https://csandino13.github.io/insolvexabogados](https://csandino13.github.io/insolvexabogados)
 
-Si deseas trabajar localmente en el proyecto, puedes clonar este repositorio en tu máquina local:
+Si deseas usar este repositorio de manera local, sigue estos pasos:
 
-```bash
-git clone https://github.com/Csandino13/insolvexabogados.git
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/Csandino13/insolvexabogados.git
+    ```
+
+2. Abre los archivos HTML en tu navegador.
+
+## Tecnologías Utilizadas
+
+- **HTML5**: Estructura del sitio web.
+- **CSS3**: Estilos y diseño responsive.
+- **JavaScript**: Interactividad básica en el sitio web.
+
+## Cómo Contribuir
+
+Si deseas contribuir a este proyecto, sigue estos pasos:
+
+1. Haz un fork de este repositorio.
+2. Crea una rama para tus cambios:
+    ```bash
+    git checkout -b nueva-funcionalidad
+    ```
+
+3. Realiza tus cambios y haz commit:
+    ```bash
+    git commit -am 'Añadir nueva funcionalidad'
+    ```
+
+4. Envía tus cambios a tu repositorio remoto:
+    ```bash
+    git push origin nueva-funcionalidad
+    ```
+
+5. Crea un pull request en este repositorio.
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+---
+
+**Insolvex Abogados**  
+Especialistas en la Ley de Segunda Oportunidad  
+[www.insolvexabogados.com](https://www.insolvexabogados.com)
